@@ -1,0 +1,5 @@
+/.dockerignore
+/.vs
+/.vscode
+/docker-compose1.yml
+/Terraform

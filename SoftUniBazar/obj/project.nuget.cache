@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qk/2nCcjY+RqV/mURZnKCrrWo1eM/4XYYJseBGmd9FEIbdvJEzfxXZh63uT7Dwur5YXEABF2maN7eBTuAQoftw==",
+  "success": false,
+  "projectFilePath": "C:\\SU-ContainersAndCloud\\EXAM\\Bazar\\SoftUniBazar\\SoftUniBazar\\SoftUniBazar.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.200.44\\AutomationTestServer\\AutomationNugets' doesn't exist.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.200.44\\AutomationTestServer\\AutomationNugets' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.200.44\\AutomationTestServer\\AutomationNugets' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.200.44\\AutomationTestServer\\AutomationNugets' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.Identity.UI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source '\\\\192.168.200.44\\AutomationTestServer\\AutomationNugets' doesn't exist.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    }
+  ]
+}
